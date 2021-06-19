@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sabyasachisome
 - 👀 I’m interested in Data Engineering/Machine Learning
 - 🌱 I’m currently preparing for CodeChef Competitive coding certification
-- 💞️ I’m looking to collaborate with programmers for Analytics/ML Projects
+- 💞️ I’m looking to collaborate with programmers for Data Engineering/ Data Migration/ Analytics Projects
 - 📫 How to reach me sabyasachisome123@gmail.com/9073296487
 
 <!---
